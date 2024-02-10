@@ -10,15 +10,16 @@ The Obsidian Weather Plugin is a powerful addition to your Obsidian note-taking 
 - **Ribbon Icon**: Quick access to refresh weather data with a dedicated ribbon icon.
 - **Error Handling**: Graceful error handling and messaging in case of issues fetching weather data.
 
-## Installation
+Installation via Community Plugins
+Note: This will be available shortly
 
-To install the plugin, follow these steps:
+Open Settings > Community Plugins in Obsidian.
+Disable Safe Mode.
+Click on Browse and search for "Weather".
+Install the plugin and activate it from your installed plugins list.
 
-1. Download the plugin files from the GitHub repository.
-2. Open your Obsidian vault.
-3. Navigate to `Settings` > `Community Plugins` > `Browse`.
-4. Click on `Install` and search for the "Weather Plugin".
-5. Enable the plugin from the list of installed plugins.
+Manual Installation
+For manual installation, download main.js and manifest.json from the latest release in the Weather GitHub repository. Place these files in a new folder named weather within the .obsidian/plugins directory of your Obsidian vault. Activate the plugin through the Community Plugins section in Obsidian's settings.
 
 ## Usage
 
